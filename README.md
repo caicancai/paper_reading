@@ -7,7 +7,7 @@
 
 [X100](https://www.cidrdb.org/cidr2005/papers/P19.pdf)
 
-[What Goes Around Comes Around... And Around...原文](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
+[What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 
 [The Transaction Concept:Virtues and Limitations](https://jimgray.azurewebsites.net/papers/thetransactionconcept.pdf)
 
@@ -15,6 +15,7 @@
 
 ## Distributed systems
 [Raft](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
+
 [Raft博士论文](https://github.com/ongardie/dissertation/blob/master/stanford.pdf)
 
 [Zookeeper](https://github.com/mapleFU/zookeeper_paper_cn/blob/master/Hunt.pdf)
