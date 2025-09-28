@@ -13,6 +13,8 @@
 
 [WiscKey](https://github.com/Songrui625/wisckey-zh_cn/blob/main/wisckey-zh_cn.md)
 
+[A Morsel-Driven Query Execution Engine for Heterogeneous Multi-Cores](https://www.vldb.org/pvldb/vol12/p2218-dursun.pdf)
+
 ## Distributed systems
 [Raft](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
 
